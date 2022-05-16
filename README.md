@@ -1,6 +1,6 @@
 ## Olá, eu sou o Diego 👋
 
-- 🔭 Atualmente estou estudando Typescript
+- 🔭 Atualmente estou estudando VueJS
 - 👨🏼‍🎓 Formado na [@Trybe](https://www.betrybe.com/)
 - ⚡ Segue meu **[currículo](https://gitconnected.com/diego-rib/resume)** e meu **[portfólio](https://diego-rib.github.io)** onde você pode ver alguns dos projetos que já desenvolvi
 
