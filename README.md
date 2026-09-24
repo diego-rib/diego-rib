@@ -1,6 +1,5 @@
 ## Olá, eu sou o Diego 👋
 
-- 🔭 Atualmente estou estudando Flutter + Dart
 - 👨🏼‍🎓 Formado pela [@Trybe](https://www.betrybe.com/) no curso de Desenvolvimento Web Fullstack
 - 📚 Cursando [Análise e Desenvolvimento de Sistemas](https://cursos.cruzeirodosulvirtual.com.br/grad-analise-e-desenvolvimento-de-sistemas-cruzeiro-do-sul-virtual/p) na UniFran - Cruzeiro do Sul
 - ⚡ Segue meu **[currículo](https://gitconnected.com/diego-rib/resume)** e meu **[portfólio](https://diego-rib.github.io)** onde você pode ver alguns dos projetos que já desenvolvi
